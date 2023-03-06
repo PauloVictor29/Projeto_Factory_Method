@@ -1,5 +1,5 @@
 # Projeto Factory Method
-Projeto criado na linguagem Python, importando a biblioteca ABC e PySimpleGUI para portaria da instituição que estudo, onde a portaria identificaria quem entra da unidade e qual relação ela tem com a instuição
+Projeto criado pelo Paulo Victor e Brenda Garcia na linguagem Python, importando a biblioteca ABC e PySimpleGUI para portaria da instituição que estudo, onde a portaria identificaria quem entra da unidade e qual relação ela tem com a instuição
 
 <h2> Aqui é a tela inicial  </h2>
 <div align="center">
