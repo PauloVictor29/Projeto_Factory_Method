@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
 import PySimpleGUI as sg #cria a interface grafica 
+# Projeto criado pelo Paulo Victor e Brenda Garcia 
 
 #Classe abstrata que define o metodo abstrato 
 class Portaria (ABC):
